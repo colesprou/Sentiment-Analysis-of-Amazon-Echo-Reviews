@@ -4,4 +4,7 @@
 - Also, did some EDA and Data Cleaning on the dataset before working on the models!
 
 Tools Used:
-- Anaconda, Python, Scki-Kit Learn, Matplotlib, and Seaborn
+- Anaconda, Python, Scki-Kit Learn, Pandas, NumPy, Matplotlib, and Seaborn
+
+Data Source:
+https://www.kaggle.com/sid321axn/amazon-alexa-reviews
